@@ -1,12 +1,3 @@
-<script setup>
-import WelcomeItem from './WelcomeItem.vue'
-import DocumentationIcon from '../Icons/IconDocumentation.vue'
-import ToolingIcon from '../Icons/IconTooling.vue'
-import EcosystemIcon from '../Icons/IconEcosystem.vue'
-import CommunityIcon from '../Icons/IconCommunity.vue'
-import SupportIcon from '../Icons/IconSupport.vue'
-</script>
-
 <template>
   <WelcomeItem>
     <template #icon>
